@@ -1,3 +1,3 @@
 nomad-measurements
 nomad-material-processing
-git+https://github.com/nomad-hzb/nomad-hysprint?tab=readme-ov-file
+git+https://github.com/kaust-library/nomad-hysprint
