@@ -1,3 +1,5 @@
 nomad-measurements
 nomad-material-processing
-git+https://github.com/kaust-library/nomad-hysprint
+git+https://github.com/nomad-hzb/nomad-baseclasses.git
+git+https://github.com/nomad-hzb/nomad-hysprint.git
+
